@@ -10,7 +10,7 @@ setup(
     name="Predictive Maintenance",
     version="0.0.1",
     description="Predictive Maintenance Multi-Model Classification Project",
-    author="Sappa",
+    author="Sappa Chaaya",
     url="https://github.com/schaaya/Predictive-Maintenance",
     packages=find_namespace_packages(),
     install_requires=required_packages,
